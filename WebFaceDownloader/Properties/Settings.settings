@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebFaceDownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strUsrTargetFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FaceArrayPic.jpg</Value>
+    </Setting>
+    <Setting Name="textUsrCropFaceStartX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="textUsrCropFaceStartY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62</Value>
+    </Setting>
+    <Setting Name="textUsrCropFaceWidth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">778</Value>
+    </Setting>
+    <Setting Name="textUsrCropFaceHeight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">900</Value>
+    </Setting>
+    <Setting Name="textUsrFaceResizeWidth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="textUsrFaceReSizeHeight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="textUsrFaceArrayNumHeri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="textUsrFaceArrayNumVert" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
